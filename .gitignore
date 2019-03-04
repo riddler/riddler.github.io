@@ -1,0 +1,19 @@
+### JavaScript ###
+node_modules
+package-lock.json
+
+### Jekyll ###
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
+
+### Logs and Databases ###
+*.log
+*.sql
+*.sqlite
+
+### MacOS ###
+*.DS_Store
+.Spotlight-V100
+.Trashes
